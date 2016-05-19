@@ -22,5 +22,8 @@
   "bugs": {
     "url": "https://github.com/ajhyndman/tiny-elm-starter/issues"
   },
-  "homepage": "https://github.com/ajhyndman/tiny-elm-starter#readme"
+  "homepage": "https://github.com/ajhyndman/tiny-elm-starter#readme",
+  "devDependencies": {
+    "elm": "^0.17.0"
+  }
 }
