@@ -4,6 +4,7 @@
   "description": "A minimal elm frontend starter kit",
   "main": "index.js",
   "scripts": {
+    "build": "elm-make src/app.elm --output=index.html",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
