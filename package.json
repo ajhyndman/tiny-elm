@@ -1,5 +1,5 @@
 {
-  "name": "tiny-elm-starter",
+  "name": "tiny-elm",
   "version": "1.0.0",
   "description": "A minimal elm frontend starter kit",
   "main": "index.js",
