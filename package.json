@@ -5,6 +5,7 @@
   "main": "index.js",
   "scripts": {
     "build": "elm-make src/app.elm --output=index.html",
+    "server": "serv",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
@@ -25,6 +26,7 @@
   },
   "homepage": "https://github.com/ajhyndman/tiny-elm-starter#readme",
   "devDependencies": {
-    "elm": "^0.17.0"
+    "elm": "^0.17.0",
+    "serv": "^0.2.4"
   }
 }
