@@ -2,7 +2,6 @@
   "name": "tiny-elm",
   "version": "1.0.0",
   "description": "A minimal elm frontend starter kit",
-  "main": "index.js",
   "scripts": {
     "build": "elm-make src/app.elm --output=index.html",
     "server": "serv",
